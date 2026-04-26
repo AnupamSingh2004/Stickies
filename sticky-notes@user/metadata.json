@@ -1,0 +1,7 @@
+{
+  "name": "Sticky Notes",
+  "description": "Place draggable sticky notes on your desktop",
+  "uuid": "sticky-notes@user",
+  "shell-version": ["46"],
+  "version": 1
+}
